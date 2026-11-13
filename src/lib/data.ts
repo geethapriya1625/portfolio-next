@@ -326,9 +326,9 @@ export const EDUCATION: TimelineStop[] = [
 export const EXPERIENCE: TimelineStop[] = [
   {
     kind: "work",
-    start: "Jan 2023",
+    start: "Aug 2022",
     end: "Jul 2025",
-    year: "2023",
+    year: "2022",
     title: "Software Engineer",
     place: "CrimsonLogic Pvt. Ltd",
     location: "Bangalore, India",
